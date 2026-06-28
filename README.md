@@ -29,14 +29,14 @@ This project demonstrates practical experience with:
 
 ## Project Structure
 
-```
+
 01-Client-Discovery
 02-Asset-Inventory
 03-Network-Design
 04-Network-Segmentation
 05-IP-Addressing
 06-Active-Directory
-```
+
 
 ## Active Directory Highlights
 

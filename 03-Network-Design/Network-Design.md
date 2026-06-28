@@ -24,4 +24,4 @@ This design provides centralized management, improved security, and scalability 
 
 ## Network Diagram
 
-*(Network diagram will be added here after the final version is completed.)*
+![Network Diagram] (Network-Design.drawio.png)
